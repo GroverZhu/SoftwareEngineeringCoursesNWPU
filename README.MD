@@ -71,14 +71,18 @@
      * 模型驱动的软件开发方法   
      * 网络与信息安全   
      * 计算智能方法   
+       * Libkup[🔗](https://github.com/Libkup/IntelligentOptimizationAlgorithm.git)
      * 网络技术与实践   
      * 机器学习及应用   
      * 汇编与接口   
      * Python程序设计——深度学习基础及应用   
-     * 大数据技术基础   
+     * 大数据技术基础  
+     * 网络信息安全 
+       * Libkup[🔗](https://github.com/Libkup/InformationSecurity.git)
   
   * 其他相关代码
     * YuhsiHu:基于SSM框架的个人博客系统[🔗](https://github.com/YuhsiHu/SSM-Blog)  
+    * Libkup:人流量监测平台[🔗](https://github.com/Libkup/PeopleFlowDetection.git)[🔗](https://github.com/Libkup/PeopleFlowDetection.git)
 
 # 使用说明   
 
