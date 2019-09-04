@@ -38,13 +38,14 @@
       * 用户界面设计  
       * 软件需求工程   
       * 网页开发/安卓开发 
-        * [BillWiz账单APP](https://github.com/YuhsiHu/BillWiz)   
+        * YuhsiHu:BillWiz账单APP[🔗](https://github.com/YuhsiHu/BillWiz)   
       * 网络与分布计算 
-        * [YuhsiHu](https://github.com/YuhsiHu/SSD8-Network-and-distributed-computing)   
+        * YuhsiHu[🔗](https://github.com/YuhsiHu/SSD8-Network-and-distributed-computing)   
       * 软件项目组织与管理   
+        * YuhsiHu[🔗](https://github.com/YuhsiHu/BiblioSoft)
       * 软件测试   
       * 算法分析与设计
-        * [YuhsiHu](https://github.com/YuhsiHu/Algorithm-in-Java)    
+        * YuhsiHu[🔗](https://github.com/YuhsiHu/Algorithm-in-Java)    
       * 软件工程文档写作   
 
   * 专业选修课程   
@@ -66,7 +67,7 @@
 
   * 任选课程   
      * 编译原理  
-       *  [YuhsiHu](https://github.com/YuhsiHu/Compiler-Construction-Principle-and-Practice)
+       *  YuhsiHu[🔗](https://github.com/YuhsiHu/Compiler-Construction-Principle-and-Practice)
      * 模型驱动的软件开发方法   
      * 网络与信息安全   
      * 计算智能方法   
@@ -77,7 +78,7 @@
      * 大数据技术基础   
   
   * 其他相关代码
-    * [基于SSM框架的个人博客系统](https://github.com/YuhsiHu/SSM-Blog)  
+    * YuhsiHu:基于SSM框架的个人博客系统[🔗](https://github.com/YuhsiHu/SSM-Blog)  
 
 # 使用说明   
 
