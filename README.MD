@@ -68,6 +68,7 @@
   * 任选课程   
      * 编译原理  
        *  YuhsiHu[🔗](https://github.com/YuhsiHu/Compiler-Construction-Principle-and-Practice)
+       *  PatchouliJY[🔗](https://github.com/PatchouliJY/Compilation-Principle)
      * 模型驱动的软件开发方法   
      * 网络与信息安全   
      * 计算智能方法   
