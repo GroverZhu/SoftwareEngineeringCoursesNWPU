@@ -66,6 +66,7 @@
       * 电子服务系统设计   
       * 服务科学与工程概论   
       * 商业智能导论   
+        * GroverZhu[🔗](https://pan.baidu.com/s/1jf6UwP7yOXoEtTPwRfsgrQ)
 
   * 任选课程   
      * 编译原理  
