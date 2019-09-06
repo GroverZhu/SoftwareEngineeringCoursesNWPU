@@ -53,6 +53,8 @@
       * 软件系统开发方向前沿课程   
       * 现代软件工程   
       * 企业级应用软件开发技术JavaEE   
+        * GroverZhu[🔗](https://github.com/GroverZhu/JSP-Servlet)    
+          * [Online Library System](https://github.com/GroverZhu/Online-Library-System)
       * 软件架构设计
     * 数字媒体   
       * 数字媒体方向前沿课程   
@@ -69,6 +71,7 @@
      * 编译原理  
        *  YuhsiHu[🔗](https://github.com/YuhsiHu/Compiler-Construction-Principle-and-Practice)
        *  PatchouliJY[🔗](https://github.com/PatchouliJY/Compilation-Principle)
+       * GroverZhu [🔗](https://github.com/GroverZhu/CompilerConstructionPrinciples)
      * 模型驱动的软件开发方法   
      * 网络与信息安全   
      * 计算智能方法   
