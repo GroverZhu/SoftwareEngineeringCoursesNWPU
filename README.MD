@@ -81,6 +81,7 @@
        * Libkup[🔗](https://github.com/Libkup/IntelligentOptimizationAlgorithm.git)
      * 网络技术与实践   
      * 机器学习及应用   
+       *  YuhsiHu[🔗](https://github.com/YuhsiHu/Machine-Learning-exercise)
      * 汇编与接口   
      * Python程序设计——深度学习基础及应用   
      * 大数据技术基础  
