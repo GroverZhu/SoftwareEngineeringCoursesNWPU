@@ -76,7 +76,6 @@
        *  PatchouliJY[🔗](https://github.com/PatchouliJY/Compilation-Principle)
        * GroverZhu [🔗](https://github.com/GroverZhu/CompilerConstructionPrinciples)
      * 模型驱动的软件开发方法   
-     * 网络与信息安全   
      * 计算智能方法   
        * Libkup[🔗](https://github.com/Libkup/IntelligentOptimizationAlgorithm.git)
      * 网络技术与实践   
@@ -85,7 +84,7 @@
      * 汇编与接口   
      * Python程序设计——深度学习基础及应用   
      * 大数据技术基础  
-     * 网络信息安全 
+     * 网络与信息安全 
        * Libkup[🔗](https://github.com/Libkup/InformationSecurity.git)
   
   * 其他相关代码
