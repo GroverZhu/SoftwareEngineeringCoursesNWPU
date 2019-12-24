@@ -11,7 +11,7 @@
 
 # 背景   
 
-该项目仅整理我在西北工业大学学习软件工程的相关课程的链接，在之前的学习中我也会去GitHub上查找相应的课程，虽然有学长学姐会把之前的课程相关资料或写过的代码放到GitHub上，但是还是难以查找，因此在这做一个README来收录这些课程。该项目并非收录全部的课程，主要是针对软件工程中的基础数学课程，专业课程进行整理。在大学的生活中还是以学业为主，不过在学习的过程中，更多是靠自己自学，搜集资料。对于每个课程的资料的整理都要花费很长的一段时间，有时候甚至无从下手，不知道要从何整理，因此在该项目中软件工程的课程的资料进行收集，下述是主要课程大纲，图片版请参考[🔗](https://groverzhu.github.io/2019/09/03/%E6%9C%AC%E7%A7%91%E8%AF%BE%E7%A8%8B/#more)
+该项目仅整理我在西北工业大学学习软件工程的相关课程的链接，在之前的学习中我也会去GitHub上查找相应的课程，虽然有学长学姐会把之前的课程相关资料或写过的代码放到GitHub上，但是还是难以查找，因此在这做一个README来收录这些课程，该项目的初衷是你们能够在学习的过程中遇到困惑，希望能过提供参考，希望有自己独立思考的过程(学生年代，造轮子在很大程度上可以提高编程能力)。该项目并非收录全部的课程，主要是针对软件工程中的基础数学课程，专业课程进行整理。在大学的生活中还是以学业为主，不过在学习的过程中，更多是靠自己自学，搜集资料。对于每个课程的资料的整理都要花费很长的一段时间，有时候甚至无从下手，不知道要从何整理，因此在该项目中软件工程的课程的资料进行收集，下述是主要课程大纲，图片版请参考[🔗](https://groverzhu.github.io/2019/09/03/%E6%9C%AC%E7%A7%91%E8%AF%BE%E7%A8%8B/#more)
 
 * 基础数学课   
   * 高等数学上/下   
@@ -90,7 +90,8 @@
   
   * 其他相关代码
     * YuhsiHu:基于SSM框架的个人博客系统[🔗](https://github.com/YuhsiHu/SSM-Blog)  
-    * Libkup:人流量监测平台[🔗](https://github.com/Libkup/PeopleFlowDetection.git)[🔗](https://github.com/Libkup/PeopleFlowDetection.git)
+    * Libkup:人流量监测平台[🔗](https://github.com/Libkup/PeopleFlowDetection.git)[🔗](https://github.com/Libkup/PeopleFlowDetection.git)   
+    * polossk:本科毕业毕业论文$\LaTeX$模版[🔗](https://github.com/polossk/LaTeX-Template-For-NPU-Thesis)
 
 # 使用说明   
 
