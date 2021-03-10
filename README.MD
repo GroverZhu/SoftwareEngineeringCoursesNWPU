@@ -32,6 +32,7 @@
       * 电子技术导论   
       * 面向对象编程与设计Java   
         * GroverZhu[🔗](https://github.com/GroverZhu/LearnJava)
+        * YongzeYang[🔗](https://github.com/YongzeYang/NPU-U14M11065-Object-Oriented-Programming-and-Design) 
       * 计算机组成原理   
       * 计算机操作系统   
       * 数据库系统   
